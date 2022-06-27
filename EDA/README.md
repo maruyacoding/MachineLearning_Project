@@ -10,6 +10,8 @@
   -  KillStreaks가 Kills에 포함되고 상관계수가 0.8로 높으므로 drop을 하기로 결정
   -  DBNOs의 대부분 데이터가 0에 있음을 확인
   -  damageDealt의 대부분 데이터가 0에 있음을 확인
+<br>
+
 - 2차 : Kaggle 참조 + 내생각을 합하여 전체적인 columns 및 데이터를 확인하여 이상치를 제거한다.
   - totalDistance columns 생성 후 totalDistance가 0인데 kills가 있는 경우 이상치
   - longestkills, walkDistance, swimDistance, rideDistance 이상치 확인
