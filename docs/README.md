@@ -7,7 +7,10 @@
 ![image](https://user-images.githubusercontent.com/86671456/171619107-8d5506bf-349e-4163-9694-c3ad99adac9d.png)
 
 
-주제 : PUBG Finish Placement Prediction (Kernels Only)
+## 주제 : PUBG Finish Placement Prediction (Kernels Only)
+
+<br>
+
 ![image](https://camo.githubusercontent.com/eae14d3c6936de1605c7a638fd79c9801e66bf8f70c43a7900b99a546d18be2f/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6b6167676c652d6d656469612f636f6d7065746974696f6e732f505542472f50554247253230496e6c61792e6a7067)
 
 <br>
