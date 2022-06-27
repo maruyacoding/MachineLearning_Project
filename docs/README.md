@@ -31,39 +31,32 @@
 
 |  프로젝트 순서 |     Point    | 세부 내용 |  
 |:------------------:| -----|------|
-|문제 정의|해결할 점, 찾아내야할 점 ||
-|데이터 수집|공개 데이터, 자체 수집, 제공된 데이터 ||   
-|데이터 전처리|문제에 따라서 처리해야할 방향 설정 |
-|Feature Engineering|모델 선정 혹은 평가 지표에 큰 영향||
-|연관 데이터 추가|추가 수집 | 훈련, test  |
-|알고리즘 선택| 기본적, 현대적||   
-|모델 학습|하이퍼파라미터,데이터 나누기 |   |
-|모델 평가|확률,  | |
-|모델 성능 향상|성능 지표, 하이퍼파라미터, 데이터 리터러시 재수정 |   |
+|문제 정의| PUGB Bettle Ground 게임의 유저 승률 예측 ||
+|데이터 수집| 해당 Kaggle 대회의 제공된 데이터 ||   
+|데이터 전처리| Feature Engineering, 이상치 제거, 결측치 제거 |
+|모델 학습| Modeling : LinearRegression, Lasso, Ridge, LGBMRegressor, XGBRegressor, CatBoostRegressor, RandomForestRegressor |   |
+|모델 평가| 캐클 채점 (MAE) | |
+|모델 성능 향상| 하이퍼파라미터, 데이터 전처리 |   |
 
 <br>
 
 ### Basic information
 
-**공식기간: 2022.06.03 ~ 2022.06.14**
+**공식기간: 2022.06.03 ~ 2022.06.21**
 
 
 - 인원: 진승범, 오세연, 윤상현, 최윤아, 문석민
-- 직책: 
-- 데이터: 
-- 주 역할:
-- 보조 역할: 
-- 추가 역할:
+- 팀장: 문석민
+- 팀원: 오세연, 윤상현, 진승범, 최윤아
+- 데이터: PUGB - train_V2.csv, test_V2.csv, simple_submission_V2.csv
+- 역할: EDA, Modeling, Hyperparameter Tuning
 - 협업장소: 스파크 플러스
-- 소통: 
-- 저장소: 
-- 개발환경: 
-- 언어 :
-- 라이브러리:
-- 시각화 라이브러리: 
-- 시각화 도구: 
-- 웹 크롤링: 
-- 관리: 
+- 소통: 매일 회의를 통해 진행사항 공유
+- 저장소: Git
+- 개발환경: vscode, jupyter notebook, Anaconda
+- 언어 : python 3.9
+- 라이브러리 : numpy, pandas, sklearn, catboost
+- 시각화 라이브러리 : seaborn, matplotlib
 
 <br>
 
